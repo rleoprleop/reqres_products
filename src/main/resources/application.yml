@@ -24,4 +24,5 @@ spring:
 #      probability: 1
 #    web:
 #      skipPattern: (^cleanup.*|.+favicon.*)
+# CI/CD test
 
